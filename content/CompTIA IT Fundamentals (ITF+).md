@@ -1,1 +1,0 @@
-![[CompTIA IT Fundamentals FC0-U61 Exam Objectives.pdf]]
