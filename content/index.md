@@ -12,13 +12,13 @@ Dive into the heart of my intellectual pursuits in the **[Digital Garden](Digita
 
 Step into the realm of my professional and creative endeavors in the **[[Portfolio]]** section. Here, you'll find a curated collection of my best work, showcasing skills, projects, and achievements across various domains. It's a visual journey through my capabilities.
 
-[Explore My Portfolio](Portfolio/Portfolio)
+[Explore My Portfolio](Portfolio.md)
 
 ## Read the Latest from the Blog ✍️
 
 Engage with my thoughts, reflections, and experiences in the **[[Blog]]**. It's a dynamic space where I share insights, stories, and updates. Join me in the exploration of diverse topics, and let's embark on a journey of continuous learning together.
 
-[Dive into the Blog](Blog/Blog)
+[Dive into the Blog](Blog.md)
 
 ## Get to Know Me Better 🧑‍💼
 
