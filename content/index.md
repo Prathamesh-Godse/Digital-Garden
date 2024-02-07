@@ -1,5 +1,5 @@
 ---
-title: "# Welcome to Prathamesh Godse's Hub"
+title: Welcome to Prathamesh Godse's Hub
 ---
 Hello there! 👋 Welcome to the central hub of my digital universe. Here, you'll find gateways to different aspects of my online presence, each offering a unique exploration into my world of ideas, creations, and experiences.
 
